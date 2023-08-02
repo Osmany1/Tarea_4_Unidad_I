@@ -1,0 +1,23 @@
+textarea {
+    width: 200px;
+  }
+
+ body {
+    margin: 20px;
+    font-family: Verdana, Arial, sans-serif;
+    
+  }
+
+  input[name="email"] {
+    background-color: #eeeeee;
+  }
+  
+  p, label {
+    font-family: Tahoma, Arial, sans-serif;
+  }
+
+  
+  
+  
+  
+  
